@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/Darionas/Pig_game)
+- Live Site URL: (https://darionas.github.io/Pig_game/)
 
 ## My process
 
